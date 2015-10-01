@@ -1,0 +1,3 @@
+interval=40
+urlList=http://google.com,http://gmail.com,http://amazon.com
+keyword=world
